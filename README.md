@@ -1,7 +1,7 @@
 # 🧭 MD Operations Dashboard
 > 라이선스 브랜드 쿠팡 채널 운영 의사결정 지원 대시보드 (Python / Streamlit)
 
-🔗 **Live Demo:** (Streamlit Cloud 배포 후 링크 추가 예정)
+🔗 **Live Demo:** https://md-dashboard-choieuntae.streamlit.app/
 
 ---
 
@@ -79,8 +79,6 @@ ASP와 비교해 가격 이탈 여부를 판정합니다. 이탈 발생 시 네�
 | 네이버 쇼핑 전수 모니터링 | 가격 이탈 원인 자동 진단 | ASP 탭 원인 분류 로직 |
 
 > 네이버 쇼핑은 기존 API 방식으로 운영하다 API 제공 중단 이후 크롤링 기반으로 전환했습니다.
-
-관련 자동화 코드: [coupang-automation 레포](https://github.com/cdx311147-create/coupang-automation)
 
 ---
 
